@@ -1,6 +1,6 @@
 # Video Browser
 
-using YouTube API
+Simple YouTube video player and search built using YouTube API and React
 
 ### Getting Started
 
